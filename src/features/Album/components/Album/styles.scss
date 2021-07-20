@@ -1,0 +1,10 @@
+.album {
+  &__image > img {
+    width: 220px;
+    border-radius: 8px;
+  }
+  &__name {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+}
